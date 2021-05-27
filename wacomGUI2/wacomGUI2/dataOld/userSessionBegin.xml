@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<user>
+		<id>00001</id>
+		<history>00004</history>
+		<age>12</age>
+		<sex>male</sex>
+		<handed>left</handed>
+		<studies>Estudios obligatorios</studies>
+		<comments>aaa</comments>
+		<session>00018</session>
+	</user>
+	<user>
+		<id>00002</id>
+		<history>00002</history>
+		<age>5</age>
+		<sex>male</sex>
+		<handed>right</handed>
+		<studies>Sin estudios</studies>
+		<comments />
+	</user>
+</root>
